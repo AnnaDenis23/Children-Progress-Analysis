@@ -213,12 +213,15 @@ python -m src.cli
 ```
 ## Графические результаты 
 Пациент СП02:
+
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/3f20810f-5cee-4e50-bd28-9b6a1c3a260b" />
 
 Пациент СП12:
+
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7d150c87-3db3-4c9e-ad7f-9ec08b54c93f" />
 
 Пациент СП06:
+
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7d5ac261-e4a9-4b0f-8a82-05e54aa765c4" />
 
 
